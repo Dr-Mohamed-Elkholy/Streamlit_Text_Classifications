@@ -49,8 +49,8 @@ This project demonstrates a text classification pipeline using Python. It includ
 - The trained model and vectorizer will be saved in the `Output` directory.
 
 
-![image](https://github.com/Dr-Mohamed-Elkholy/Streamlit_Text_Classifications/assets/101191569/e7500552-d0bb-428d-81c2-78edf6fcd6e1)
+
 ![image](https://github.com/Dr-Mohamed-Elkholy/Streamlit_Text_Classifications/assets/101191569/e7500552-d0bb-428d-81c2-78edf6fcd6e1)
 ![image](https://github.com/Dr-Mohamed-Elkholy/Streamlit_Text_Classifications/assets/101191569/e249d31f-f518-45a0-ab8b-173484a7efbd)
-![image](https://github.com/Dr-Mohamed-Elkholy/Streamlit_Text_Classifications/assets/101191569/e249d31f-f518-45a0-ab8b-173484a7efbd)
+
 
